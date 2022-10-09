@@ -1,0 +1,1 @@
+# rocketseat-ignite-desafio-02-elixir-generating-report-parallelism
