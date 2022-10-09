@@ -147,6 +147,9 @@ $ mix test --cover
 
 # acessando o iex
 $ iex -S mix
+
+# teste usando o paralelismo (usando o iex)
+iex> ReportsHoursParallel.build(["part-1.csv", "part-2.csv", "part-3.csv"])
 ```
 ## :memo: Licença
 
